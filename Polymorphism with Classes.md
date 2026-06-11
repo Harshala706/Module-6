@@ -1,10 +1,10 @@
-# # 🐍 Python OOP: Polymorphism with Classes
-
+# 🐍 Python OOP: Polymorphism with Classes
+## NAME: BOYALAPALLI HARSHALA REDDY
+## REGISTER NUMBER:212224040050
 ## 🎯 AIM
 
 To create two specific classes — `Beans` and `Mango`. Then, create a **generic function** that can accept any object and determine its **type** (Fruit or Vegetable) and **color**, using polymorphism.
 
----
 
 ## 🧠 ALGORITHM
 
@@ -23,10 +23,12 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
    - Instantiate `Beans` and `Mango`.
    - Pass them to `func()` and execute the program.
 
----
 
 ## 💻 Program
+![image](https://github.com/user-attachments/assets/96366e93-9465-408c-9ff2-6488a1ad611f)
 
 ## Output
-
+![image](https://github.com/user-attachments/assets/871c4c06-b7d6-4082-82d3-b4110df67278)
 ## Result
+Thus, the program has been successfully executed.
+
